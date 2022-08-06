@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+img.dots {
+    height: 25%;
+    width: 25%;
+}
+section.section1, div.paragraph {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+div.paragraph>p {
+     width: 50%;
+    
+   
+    
+}
+span{
+    color: red;
+}
+ 
